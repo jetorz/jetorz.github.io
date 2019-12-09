@@ -1,3 +1,8 @@
+---
+layout: post
+title: 运筹学
+---
+
 # 区块链小白书
 
 [李笑来](http://lixiaolai.com)（著）&copy; 2019
