@@ -1,9 +1,6 @@
-运筹学
----
+# Restart
 
 [张利东](https://gitpress.io/@jetorz/)（著）&copy; 2019
-
-# 运筹帷幄
 
 -----
 
