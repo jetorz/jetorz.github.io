@@ -5,4 +5,4 @@
 -----
 
 - [Restart](https://gitpress.io/@jetorz/millions-from-start)
-- [读书金句](https://gitpress.io/@jetorz/gold)
+- [AboutMe](https://gitpress.io/@jetorz/readme)
