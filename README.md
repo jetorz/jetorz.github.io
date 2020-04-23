@@ -7,7 +7,7 @@ title: ReadMe
 
 ## 1.1. Education
 
-- Master of Science in Operational Research and Business Statistics, Double Master Degree, Hong Kong Baptist University.
+- Master of Science in Operational Research and Business Statistics, Double Master Degree, Hong Kong Baptist University
 - Master of Science in Business Analytics, Double Master Degree, University of Kent
 - Bachelor of Engineering in Civil Engineer, Tongji University
 
