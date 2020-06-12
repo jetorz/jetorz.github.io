@@ -5,15 +5,58 @@ title: ReadMe
 
 # 1. About Me
 
-## 1.1. Education
-
 My undergraduate school is Tongji University, and my major is Civil Engineering, which is Top 1 in China. Then I worked as a senior civil engineer in one of the 6-Best power design institute in China before 2018.
 
 This excellent platform provided me the chance to manage many large international projects, such as projects in Russia, Bangladesh and so on. The complexity of large-scale international projects reinforced me with multicultural cooperation capability, project management capability and communication capability.
 
 After working for so long a time, I decided to continue studying to improve myself. So I came to Hong Kong to read Master in Mathematics. After one year rigorous training in Mathematics, I feel that I am even better than before.
 
-### 1.1.1. Mathematics
+# 2. Work Experience
+
+Senior Civil Engineer with advanced experience in full design process and highly complex projects. Profound knowledge in civil structure design and project management, including concept design, detail design, cost control, risk management, communication and cooperating with different functional teams and stakeholders.
+
+## 2.1. 2011 – 2018
+
+SENIOR CIVIL ENGINEER, NORTHEAST POWER DESIGN INSTITUTE (NEPDI)
+
+- Perform conceptual layout work and principle design
+- Responsible for assessing effectiveness of working practices and systems with a view to continuously improving systems, personal and team performance
+- Coordinate the work of draftspersons and senior draftspersons in the preparation of contract drawing, record keeping and other statistical work
+- Check and approve the design of structural designer and junior structural designer
+- Execute design and draft activities (Concept, Front End Engineering Development, Technical Study and Detailed Deign)
+Typical Projects
+- 2015-2018, Extension of Barapukuria Coal Fired Thermal Power Station, Bangladesh. Largest coal-fired thermal power project in Bangladesh.
+- 2011-2016, Troitsk Gres 1x660MW Coal Fired Power Units. One of the largest coal-fired thermal power projects in Russia.
+
+## 2.2. 2008 – 2011
+
+CIVIL ENGINEER, NEPDI
+
+- Performs design/drafting assignments, requiring advanced working knowledge of design/drafting standards, practices and techniques
+- Prepare bills of material, schedules and assist engineering personnel with formal drawing transmittals and construction issues.
+- Assist in coordination between engineering disciplines, participate in project planning actives and support cost and schedule updates
+- Responsible for 3D modelling for buildings. Preparing 2D drawings of structural steel and concrete for main power house, petrochemical and industrial plants with PKPM/STAAD Pro and AutoCAD
+- Responsible for adhering to all health and safety policies and guidelines
+
+## 2.3. 2006 - 2008
+
+SITE REPRESENTATIVE OF DESIGN INSTITUTE, NEPDI
+
+- Onsite service for construction. Fully responsible for design related affairs onsite
+- Solve construction problems, provide technical consultation service
+- Onsite detail design for better construction or reduce cost for stakeholders
+
+## 2.4. 2004 – 2006
+
+JUNIOR STRUCTURAL DESIGNER, NEPDI
+
+- Responsible for 2D drawing and calculation for auxiliary plants and structures.
+- Creating and maintaining 3D project models using PDMS
+- Producing structural drawings using PKPM and AutoCAD based on principle sketches
+
+# 3. Education
+
+## 3.1. Mathematics
 
 - Master of Science in Operational Research and Business Statistics, Double Master Degree, Hong Kong Baptist University.
 - Master of Science in Business Analytics, Double Master Degree, University of Kent
@@ -33,7 +76,7 @@ Courses learned:
 - Big Data Analytics and Visualization
 - Applied Time Series
 
-### 1.1.2. Civil Engineering
+## 3.2. Civil Engineering
 
 Bachelor of Engineering in Civil Engineer, Tongji University. Top 1 in China.
 
@@ -72,9 +115,9 @@ Bachelor of Engineering in Civil Engineer, Tongji University. Top 1 in China.
 - Timber Structure
 - Earthquake and Wind Resistance of Bridge Structure
 
-# 2. Skills
+# 4. Skills
 
-## 2.1. Civil
+## 4.1. Civil
 
 - STAAD Pro
 - Midas Gen
@@ -82,16 +125,22 @@ Bachelor of Engineering in Civil Engineer, Tongji University. Top 1 in China.
 - PKPM
 - TSSD
 - AutoCAD
+- PDMS
 - Excel and its Advanced Functions
   - Office Suit
 - Mathcad 
-- Concrete Structure
-- Steel Structure
-- Undergroud Structure
-- Power Plant Design
+- Concept Design
+- Concrete Structure Design
+- Steel Structure Design
+- Underground Structure Design
+- Industry Plant Design
 - Project Management
+- Risk Management
+- Cost Control
+- Time Management 
+- Operational Research Optimization
 
-### 2.1.1. Data
+## 4.2. Data
 
 - Python
   - scipy
@@ -116,7 +165,7 @@ Bachelor of Engineering in Civil Engineer, Tongji University. Top 1 in China.
 - Outlier Identification
 - Data Visualization
 
-## 2.2. Operational Research
+## 4.3. Operational Research
 
 - Linear Programming
 - Optimization Analysis
@@ -125,7 +174,7 @@ Bachelor of Engineering in Civil Engineer, Tongji University. Top 1 in China.
 - Simulation
 - Lingo
 
-# 3. Certificate
+# 5. Certificate
 
 - [Machine Learning by Stanford University](https://www.coursera.org/account/accomplishments/verify/T7UH2NE74MRJ)
 
@@ -140,19 +189,7 @@ Machine Learning Model familiar:
 - k-Nearest Neighbours(k-NN);
 - Recommend System;
 
-# 4. Work Experience
-
-14 years (2004~2018) International project working experience. Senior Engineer, good at International Project Management, Multi-culture Cooperation. 
-
-Previous projects:
-
-- Russia, Troitsk Powerplant Project
-- Bangladesh, Barapukuria Powerplant Project
-- Pakistan, LARPIR Preliminary Design Project
-- Vietnam, Duyen Hai Thermal Power Plant
-- Mainland of China, JiaMusi Coal Transport Project
-
-# 5. AWARDS
+# 6. AWARDS
 
 - Award of Excellent Academic Thesis, Northeast Power Design Institute 
 - Excellent Quality Individual Award, Northeast Power Design Institute 
@@ -160,7 +197,7 @@ Previous projects:
 
 Other awards can be found in my LinkedIn account.
 
-# 6. Contact Me
+# 7. Contact Me
 
 - [jetorz@GitHub](https://github.com/jetorz)
 - [ZHANG Lidong@Blog](https://jetorz.github.io/)
