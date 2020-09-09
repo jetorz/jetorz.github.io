@@ -24,7 +24,9 @@ SENIOR CIVIL ENGINEER, NORTHEAST POWER DESIGN INSTITUTE (NEPDI)
 - Coordinate the work of draftspersons and senior draftspersons in the preparation of contract drawing, record keeping and other statistical work
 - Check and approve the design of structural designer and junior structural designer
 - Execute design and draft activities (Concept, Front End Engineering Development, Technical Study and Detailed Deign)
-Typical Projects
+
+**Typical Projects**
+
 - 2015-2018, Extension of Barapukuria Coal Fired Thermal Power Station, Bangladesh. Largest coal-fired thermal power project in Bangladesh.
 - 2011-2016, Troitsk Gres 1x660MW Coal Fired Power Units. One of the largest coal-fired thermal power projects in Russia.
 
@@ -203,7 +205,7 @@ Other awards can be found in my LinkedIn account.
 - [ZHANG Lidong@Blog](https://jetorz.github.io/)
 - [ZHANG Lidong@LinkedIn](https://www.linkedin.com/in/zhanglidong/)
 - 张利东@微信：jetorz
-- WeChat Official: Data2Science
+- WeChat Official: DongTalks
 
 *****
 
